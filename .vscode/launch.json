@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-TransaccionesApplication<transacciones-backend_transacciones_gametech>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "gamtetech.transacciones.TransaccionesApplication",
+      "projectName": "transacciones-backend_transacciones_gametech",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
