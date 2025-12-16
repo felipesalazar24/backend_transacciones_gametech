@@ -13,7 +13,6 @@ import gamtetech.transacciones.DTO.PedidoResponseDTO;
 import gamtetech.transacciones.Model.DetallePedido;
 import gamtetech.transacciones.Model.Pedido;
 import gamtetech.transacciones.Repository.PedidoRepository;
-import gamtetech.transacciones.Service.PedidoService;
 import lombok.RequiredArgsConstructor;
 
 @Service
